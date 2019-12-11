@@ -1,0 +1,32 @@
+{
+  "name": "add-option-to-select-task",
+  "version": "1.0.0",
+  "description": "Javascript.info solution to task to add an option element to a select element",
+  "main": "scripts/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DragonOsman/add-option-to-select-task.git"
+  },
+  "keywords": [
+    "javascript.info",
+    "solution",
+    "javascript.info-solution",
+    "select",
+    "option"
+  ],
+  "author": "Osman Zakir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DragonOsman/add-option-to-select-task/issues"
+  },
+  "homepage": "https://github.com/DragonOsman/add-option-to-select-task#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.19.1",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
